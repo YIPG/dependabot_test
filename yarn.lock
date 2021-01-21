@@ -22,7 +22,7 @@ jsonfile@^2.1.0:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-preact@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-4.0.0.tgz#c4547258a6cc5649d186f2d91d9f315f50e29dd1"
-  integrity sha1-xFRyWKbMVknRhvLZHZ8xX1DindE=
+preact@10.5.11:
+  version "10.5.11"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.5.11.tgz#2c8a431f16613e442901068175771806cf1cc0f6"
+  integrity sha512-BdtFePVilR1430kDuzh3VkkZktCmp8RTqHOjG8qesyGZXHNYJjdrjEBuc2f7O/vthhVENxJd0/aTjWtYeH46aw==
